@@ -1,0 +1,11 @@
+[[foos]] # foos[0]
+bar = 0
+baz = 0
+
+[[foos]] # foos[1]
+bar = 0
+baz = 0
+
+[[foos]] # foos[2]
+bar = 1
+baz = 2
